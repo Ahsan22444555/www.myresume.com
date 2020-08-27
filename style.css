@@ -1,0 +1,14 @@
+
+.card {
+    background: rgb(243, 233, 233);
+    float: none;
+    margin: 30px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, pre {
+    font-family: 'Montserrat', sans-serif;
+}
